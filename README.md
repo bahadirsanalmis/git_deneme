@@ -10,4 +10,4 @@ Git aracılığı ile github'a dosya gönderme pull,push,commit,merge işlemleri
 ## ADVISOR
 * Dr. Nergiz Ercil Cagiltay
 * Dr. Öğr. Üyesi Gül TOKDEMİR
-<img src="C:\Users\akife\OneDrive\Masaüstü\Bahadir\Bitirme\image001.png" alt="alt text" width="320" height="180">
+![](image001.png)
