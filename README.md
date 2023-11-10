@@ -10,4 +10,4 @@ Git aracılığı ile github'a dosya gönderme pull,push,commit,merge işlemleri
 ## ADVISOR
 * Dr. Nergiz Ercil Cagiltay
 * Dr. Öğr. Üyesi Gül TOKDEMİR
-![]([image001.png](https://play.google.com/store/apps/details?id=pl.ksw.kswtv&hl=tr&gl=US)https://play.google.com/store/apps/details?id=pl.ksw.kswtv&hl=tr&gl=US)
+<img src="https://play-lh.googleusercontent.com/2SB0jrxbG4bBRuD88-yeThoMD-FFeO_0AXmu0ZgD0RktjKjWyyyoan3iglUO1SgzbQ" height="500">
